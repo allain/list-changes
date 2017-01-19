@@ -1,0 +1,22 @@
+{
+  "name": "list-changes",
+  "version": "0.1.0",
+  "description": "compares two objects returning an array of the key specs (a.b.c) that have changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allain/list-changes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allain/list-changes/issues"
+  },
+  "homepage": "https://github.com/allain/list-changes#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
