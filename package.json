@@ -1,6 +1,6 @@
 {
   "name": "list-changes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "compares two objects returning an array of the key specs (a.b.c) that have changed",
   "main": "index.js",
   "scripts": {
